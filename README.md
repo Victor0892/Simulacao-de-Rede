@@ -1,4 +1,4 @@
-# Simulação de Rede
+# Simulação de Rede (Trabalho Acadêmico)
 Projeto de simulação de rede utilizando o Cisco Packet Tracer
 
 # Objetivo
