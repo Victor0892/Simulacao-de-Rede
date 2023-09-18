@@ -10,4 +10,5 @@ Você é administrador de redes e tem um projeto para implementar seguindo os re
 *  20 Ponto de Acesso (dividir entre Adm e Aca)
 *  5 Servidores (DHCP+DNS+NTP, Backup, Câmera de Acesso, WEB+FTP, E-MAIL)
 *  5 impressoras
+  
 Restrição: Dados enviados pela rede Administrativa não podem ter acesso na rede Acadêmica.
